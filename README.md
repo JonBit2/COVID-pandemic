@@ -433,7 +433,8 @@ Many people have personal circumstances or situations that present challenges wi
 
 * [Households Living in Close Quarters: How to Protect Those Who Are Most Vulnerable](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/living-in-close-quarters.html)
 
-* [Living in Shared Housing](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/shared-housing/index.html)
+* [Living in Shared Housing
+](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/shared-housing/index.html)
 
 * [People with Disabilities](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-disabilities.html)
 
@@ -449,7 +450,7 @@ Many people have personal circumstances or situations that present challenges wi
 
 COVID-19 spreads mainly among people who are in close contact (within about 6 feet) for a prolonged period. Spread happens when an infected person coughs, sneezes, or talks, and droplets from their mouth or nose are launched into the air and land in the mouths or noses of people nearby. The droplets can also be inhaled into the lungs. Recent studies indicate that people who are infected but do not have symptoms likely also play a role in the spread of COVID-19.
 
-It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or eyes. However, this is not thought to be the main way the virus spreads. COVID-19 can live for hours or days on a surface, depending on factors such as sunlight, humidity, and the type of surface. Social distancing helps limit opportunities to come in contact with contaminated surfaces and infected people outside the home.
+It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or eyes. However, this is not thought to be the main way the virus spreads. COVID-19 can live for hours or days on a surface, depending on factors such as sunlight, humidity, and the type of surface. Social distancing to limit opportunities to come in contact with contaminated surfaces and infected people outside the home.
 
 Although the risk of severe illness may be different for everyone, anyone can get and spread COVID-19. Everyone has a role to play in slowing the spread and protecting themselves, their family, and their community.
 
@@ -497,3 +498,99 @@ Helpline](https://www.samhsa.gov/disaster-preparedness), call 1-800-985-5990, or
 [Cleaning and Disinfecting Your Home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html)
 
 [Gatherings and Community Events](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/index.html)
+
+# Table of Contents
+
+* [Symptoms of Coronavirus](#Symptoms-in-markdown)
+
+  * [What you need to know](#needto-in-markdown)
+
+  * [Watch for symptoms](#anchors-in-markdown)
+
+  * [When to Seek Emergency Medical Attention](#anchors-in-markdown)
+
+  * [Caring for yourself of others](#anchors-in-markdown)
+
+  * [More information about Symptoms](#anchors-in-markdown)
+
+* [Testing](#anchors-in-markdown)
+
+  * [Testing for COVID-19](#anchors-in-markdown)
+
+    * [Who should be tested](#anchors-in-markdown)
+
+    * [Results](#anchors-in-markdown)
+
+      * [Results for healthcare professionals](#anchors-in-markdown)
+
+      *  [For public health officials](#anchors-in-markdown)
+
+      * [For laboratorians](#anchors-in-markdown)
+
+    * [More information about Testing for COVID-19](#anchors-in-markdown)
+
+  * [Test for current infection](#anchors-in-markdown)
+    
+    * [How to get an antibody test](#anchors-in-markdown)
+      
+      * [If you test positive](#anchors-in-markdown)
+
+      * [if you test negative](#anchors-in-markdown)
+
+      * [Anitbody test for healthcare professionals](#anchors-in-markdown)
+    
+    * [CDC's work in anitbody testing](#anchors-in-markdown)
+
+      * [CDC is evaluating commerical testing](#anchors-in-markdown)
+
+      * [CDC is conducting serologic surveillance](#anchors-in-markdown)
+
+* [How COVID-19 spreads](#anchors-in-markdown)
+
+  * [Person-to-person spread](#anchors-in-markdown)
+
+  * [The virus spreads easily between people](#anchors-in-markdown)
+
+  * [The virus may be spread in other ways](#anchors-in-markdown)
+
+  * [Spread between animals and people](#anchors-in-markdown)
+
+  * [Protect yourself and others](#anchors-in-markdown)
+
+  * [More information about how COVID-19 spreads](#anchors-in-markdown)
+
+* [How to protect Yourself & others ](#anchors-in-markdown)
+
+  * [Know how it spreads](#anchors-in-markdown)
+
+  * [Everyone should](#anchors-in-markdown)
+
+    * [Wash hands often](#anchors-in-markdown)
+
+    * [Avoid close contact](#anchors-in-markdown)
+
+    * [Cover your mouth and nose with a cloth face cover when around others](#anchors-in-markdown)
+
+    * [Cover coughs and sneezes](#anchors-in-markdown)
+
+    * [Clean and disinfect](#anchors-in-markdown)
+
+    * [Monitor your health](#anchors-in-markdown)
+  
+  * [Handwashing Resources](#anchors-in-markdown)
+
+  *  [More information about how to protect yourself & others](#anchors-in-markdown)
+
+* [Social Distancing](#anchors-in-markdown)
+  
+  * [What is social distancing?](#anchors-in-markdown)
+
+    * [If you have been exposed or are sick](#anchors-in-markdown)
+
+  * [Why practice social distancing](#anchors-in-markdown)
+
+  * [Tips for social distancing!](#anchors-in-markdown)
+
+
+    
+
